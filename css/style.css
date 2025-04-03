@@ -41,8 +41,10 @@ body
 }
 
 .button {
-    background-color: #008CBA;
-    color: white;
+    /*background-color: #008CBA;
+    color: white;*/
+    background-color: #e5e5e5;
+    color: black;
     padding: 15px 30px;
     border: none;
     border-radius: 5px;
