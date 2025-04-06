@@ -65,13 +65,13 @@ body
     background: linear-gradient(45deg, #ff758c, #ff7eb3);
     background-size: 400% 400%;
     width: 90%;
-    max-width: 515px;
+    max-width: 370px;
     color: white;
     padding: 15px 30px;
     border: none;
     border-radius: 5px;
     font-family: 'Playfair Display', serif;
-    font-size: 18px;
+    font-size: 12px;
     cursor: pointer;
     transition:  background 0.5s, transform 0.3s, box-shadow 0.2s ease;
 
