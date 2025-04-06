@@ -35,7 +35,7 @@ body
 
 .name {
     font-family: 'Playfair Display', serif;
-    font-size: 50px;
+    font-size: 40px;
     background: linear-gradient(45deg, #ff758c, #ff7eb3, #ff1493);
     background-size: 300% 300%;
     -webkit-background-clip: text;
